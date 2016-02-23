@@ -1,6 +1,6 @@
 class HelloWorld{
 	public static void main(String ar[])
 	{
-		System.out.print("Hello World by Shweta");
+		System.out.print("Hello World");
 	}
 }
